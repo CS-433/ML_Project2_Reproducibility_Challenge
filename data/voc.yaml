@@ -1,0 +1,26 @@
+names:
+- dog
+- person
+- train
+- sofa
+- chair
+- car
+- pottedplant
+- diningtable
+- horse
+- cat
+- cow
+- bus
+- bicycle
+- aeroplane
+- motorbike
+- tvmonitor
+- bird
+- bottle
+- boat
+- sheep
+nc: 20
+path: ..
+test: voc/images/test
+train: voc/images/train
+val: voc/images/val
