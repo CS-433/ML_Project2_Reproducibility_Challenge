@@ -28,7 +28,7 @@ object visual classes challenges](http://host.robots.ox.ac.uk/pascal/VOC/voc2007
 Note that COCO and VOC labels should be converted to YOLO format first. 
 For VOC 2007 labels, the user can use `VOCtoYOLO.ipynb` for conversion,
 and for COCO 2017 labels, the user can use `COCOtoYOLO.py`.
-Then, VOC image and label files should be sent to folders named `voc/image` and `voc/label` 
+Then, VOC image and label files should be sent to new folders named `voc/image` and `voc/label` 
 under the root folder respectively, and COCO image and label files should be sent
 to new folders named `coco/image` and `coco/label` under the root folder respectively.
 
